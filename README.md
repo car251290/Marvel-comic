@@ -3,7 +3,7 @@
 A small web app built with React against the Marvel developer API.
 
 ![deadpool]
-()
+(https://github.com/car251290/Marvel-comic/blob/master/chimichanga.jpg)
 
 ## Install
 
