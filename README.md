@@ -21,13 +21,6 @@ A small web app built with React against the Marvel developer API.
 
 - React
 - Custom Responsive CSS and CSS3
-- MomentJS
-- Axios
-- ES6 Syntax
 - Designed after the Marvel website
 
-## Future Implementations
 
-- Selecting a Comic opens up a modal for a preview of that Comic
-- If using a VR set, the Comic Preview can be interactive. This would utilize ReactVR
-- Enzyme test cases
