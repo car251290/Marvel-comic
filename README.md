@@ -2,7 +2,8 @@
 
 A small web app built with React against the Marvel developer API.
 
-![deadpool](https://co.pinterest.com/pin/613122936744295156/)
+![deadpool]
+()
 
 ## Install
 
