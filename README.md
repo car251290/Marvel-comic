@@ -1,4 +1,5 @@
 # Marvel Characters App
+/Users/javier/Desktop/deadpool.jpg
 
 A small web app built with React against the Marvel developer API.
 
