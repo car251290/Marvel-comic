@@ -1,5 +1,5 @@
 # Marvel Characters App
-/Users/javier/Desktop/deadpool.jpg
+https://www.barnesandnoble.com/blog/sci-fi-fantasy/8-books-to-get-you-in-the-deadpool-mood/
 
 A small web app built with React against the Marvel developer API.
 
