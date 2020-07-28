@@ -1,5 +1,5 @@
 # Marvel Characters App
-I love the marvel Movies, I had an account in Mavel that gave me an API To use it and display some images about the Marvel super Using React to display it in JavaScript.
+I love the marvel Movies, I had an account in Mavel that gave me an API To use it and display some images about the Marvel super Using React to display it in Web-page the Language, I use it was JavaScript
 
 (https://github.com/car251290/Marvel-comic/blob/master/chimichanga.jpg)
 
