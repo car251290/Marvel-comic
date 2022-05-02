@@ -20,6 +20,14 @@ I love the marvel Movies, I had an account in Mavel that gave me an API To use i
 - React
 - Custom Responsive CSS and CSS3
 - Designed after the Marvel website
+-
+## Hooks
+JavaScript Resources
+The React documentation assumes some familiarity with programming in the JavaScript language. You don’t have to be an expert, but it’s harder to learn both React and JavaScript at the same time.
+We recommend going through this JavaScript overview to check your knowledge level. It will take you between 30 minutes and an hour but you will feel more confident learning React.
+API Reference
+This documentation section is useful when you want to learn more details about a particular React API. For example, React.Component API reference can provide you with details on how setState() works, and what different lifecycle methods are useful for.
+
 
 ## Tools
 -React
