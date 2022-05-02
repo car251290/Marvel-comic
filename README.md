@@ -12,7 +12,7 @@ I love the marvel Movies, I had an account in Mavel that gave me an API To use i
 ## Functionality
 
 - Displays a list of Characters from the Marvel API, which can be sorted A-Z or Z-A
-- Clicking on a Character displays Character Info, including Character Name and Comics pertaining to that Character
+- Clicking on a Character displays Marvel information, including Character Name and Comics pertaining to that Character
 - Hovering over a Comic card reveals Comic Title, ID, Date of Release, and Issue Number
 
 ## Utilized
