@@ -21,4 +21,9 @@ I love the marvel Movies, I had an account in Mavel that gave me an API To use i
 - Custom Responsive CSS and CSS3
 - Designed after the Marvel website
 
+## Tools
+-React
+-Hooks
+-Marvel APIs
+
 
