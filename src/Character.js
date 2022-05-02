@@ -1,20 +1,21 @@
 import React from 'react'
 
-class Character extends React.Component {
-  handleClick = () => {
-    this.props.showCharacter(this.props.character)
+const Character = (props) => {
+  
+  const handleClick = () => {
+    props.showCharacter(props.character)
   }
 
-  render() {
+  
     return(
-      <div className="character" onClick={this.handleClick}>
-        <img className="character-images" src={this.props.character.thumbnail.path+ '/portrait_fantastic' + '.' + this.props.character.thumbnail.extension} alt={this.props.character.name}/>
+      <div className="character" onClick={handleClick}>
+        <img className="character-images" src={props.character.thumbnail.path+ '/portrait_fantastic' + '.' + props.character.thumbnail.extension} alt={props.character.name}/>
         <div className="character-name">
-          {this.props.character.name}
+          {props.character.name}
         </div>
       </div>
     )
-  }
+  
 }
 
 export default Character
