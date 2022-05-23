@@ -36,6 +36,10 @@ Hooks solve a wide variety of seemingly unconnected problems in React that we’
 ## Tools
 -React
 -Hooks
+- JavaScript
+- HTML & CSS
+- REST Apis
 -Marvel APIs
+
 
 
