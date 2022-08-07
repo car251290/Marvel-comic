@@ -31,9 +31,16 @@ What does useEffect do? By using this Hook, you tell React that your component n
 API Reference
 This documentation section is useful when you want to learn more details about a particular React API. For example, React.Component API reference can provide you with details on how setState() works, and what different lifecycle methods are useful for.
 
+A RESTful API uses commands to obtain resources. The state of a resource at any given timestamp is called a resource representation. A RESTful API uses existing HTTP methodologies defined by the RFC 2616 protocol, such as:
+
+GET to retrieve a resource;
+PUT to change the state of or update a resource, which can be an object, file or block;
+POST to create that resource; and
+DELETE to remove it.
+
+
 Motivation
 Hooks solve a wide variety of seemingly unconnected problems in React that we’ve encountered over five years of writing and maintaining tens of thousands of components. Whether you’re learning React, use it daily, or even prefer a different library with a similar component model, you might recognize some of these problems.
-
 
 ## Tools
 - JavaScript
