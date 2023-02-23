@@ -20,7 +20,8 @@ I love the marvel Movies, I had an account in Mavel that gave me an API To use i
 - React
 - Custom Responsive CSS and CSS3
 - Designed after the Marvel website
--
+- Make the Ui available for the comming componets.
+
 ## Hooks
 JavaScript Resources
 The React documentation assumes some familiarity with programming in the JavaScript language. You don’t have to be an expert, but it’s harder to learn both React and JavaScript at the same time.
